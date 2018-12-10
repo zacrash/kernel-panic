@@ -17,3 +17,5 @@ Open localhost:8000 in browser
 * \: Pause Player 2
 * q: Player 1 Dab (Taunt)
 * /: Player 2 Dab (Taunt)
+
+## Developed by Zach Rash, Brad Squicciarini, and Jonathan Schultz for UCLA Com Sci 174A
