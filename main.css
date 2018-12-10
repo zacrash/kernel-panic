@@ -1,0 +1,17 @@
+#HP1 {
+  z-index: 3;
+  position:absolute;
+  top:530px;
+  left:50px;
+  font-size:2em;
+  color: #ff4e4e;
+}
+
+#HP2 {
+  z-index: 3;
+  position:absolute;
+  top:530px;
+  left:900px;
+  font-size:2em;
+  color: #ff4e4e;
+}
